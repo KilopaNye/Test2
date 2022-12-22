@@ -33,7 +33,7 @@
 .box{
     font-size: 15px;
     flex:none;
-    width:94%;
+    width:90%;
     background-color: rgba(215, 225, 255 ,0.99);
     border:2px solid rgb(37, 35, 88 ,);
     margin:6px;
